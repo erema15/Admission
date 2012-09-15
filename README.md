@@ -1,4 +1,1 @@
-Admission
-=========
-
-Учёт пропусков
+use Perl or die;
